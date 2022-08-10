@@ -23,7 +23,7 @@ public class EjemploFactory {
         System.out.println("Linus ordena la pizza "+pizza.getNombre());
 
         pizza= california.ordenarPizza("pepperoni");
-        System.out.println("John ordena la pizza "+pizza.getNombre());
+        System.out.println("John ordena la pizzaa "+pizza.getNombre());
 
         System.out.println("pizza = " + pizza);
     }
